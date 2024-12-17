@@ -1,0 +1,16 @@
+Model Evaluation status: True 
+Accuracy: 0.9332514960871566
+ROC-AUC: 0.935096138102671
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.93      0.99      0.96      5072
+           1       0.97      0.72      0.83      1445
+
+    accuracy                           0.93      6517
+   macro avg       0.95      0.86      0.89      6517
+weighted avg       0.94      0.93      0.93      6517
+
+Confusion Matrix: 
+[[5037   35]
+ [ 400 1045]]
